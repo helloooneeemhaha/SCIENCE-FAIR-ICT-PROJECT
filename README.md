@@ -70,10 +70,15 @@ Attached is the method for programming the smart car using Python and ultrasonic
  
  
  while inCurrentTask():
+   
     go(100, 100, 0.01)
+    
     if get_ultrasound()[2] < 100:
+       
         go(-40, 100, 0.7)
+        
         go(50, 50, 0.6)
+        
         go(100, -40, 0.7)  
 
 
