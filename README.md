@@ -1,4 +1,4 @@
-# SCIENCE-FAIR-ICT-PROJECT
+# TrustAuto Self-Driving Car
 
 Science Fair
 
