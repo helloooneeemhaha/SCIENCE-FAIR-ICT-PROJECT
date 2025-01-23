@@ -1,6 +1,6 @@
 # TrustAuto Self-Driving Car
 
-Science Fair
+
 
  
 
